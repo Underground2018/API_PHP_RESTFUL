@@ -2,10 +2,10 @@
 
 class Database {
 
-    private $host = "localhost";
-    private $db_name = "newman_db";
-    private $username = "root";
-    private $password = "root";
+    private $host = "host_name";
+    private $db_name = "db_name";
+    private $username = "user_name";
+    private $password = "password";
     public $conn;
 
 
